@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Donald Mondragon
 
-My latest work | [https://github.com/johnbradbury214/MiVet](https://github.com/DJMondragon1/MiVet)
+My latest work | https://github.com/DJMondragon1/MiVet
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
